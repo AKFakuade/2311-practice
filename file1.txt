@@ -1,1 +1,4 @@
 hey hey this is file 1
+imma change it so it shows the difference.
+i'll also delete a word in the first line.
+it only shows different lines, so line 1 should not show up in green.
